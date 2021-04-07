@@ -47,15 +47,15 @@ $ ./latlong
 
 You will see your data directly in console:
 
-43.012760 79.243610
-43.012755 79.243609
-43.012735 79.243620
-43.012767 79.243615
-43.012756 79.243602
-43.012778 79.243613
-43.012765 79.243630
-43.012737 79.243621
-43.012739 79.243607
+latitude: 43.012760      longitude: 79.243610
+latitude: 43.012755      longitude: 79.243609
+latitude: 43.012735      longitude: 79.243620
+latitude: 43.012767      longitude: 79.243615
+latitude: 43.012756      longitude: 79.243602
+latitude: 43.012778      longitude: 79.243613
+latitude: 43.012765      longitude: 79.243630
+latitude: 43.012737      longitude: 79.243621
+latitude: 43.012739      longitude: 79.243607
 
 
 
