@@ -45,7 +45,7 @@ $ gcc -o latlong demo.c -lgps -lm
 $ ./latlong
 
 
-You will see your data directly in console:
+Output:
 
 latitude: 43.012760      longitude: 79.243610
 latitude: 43.012755      longitude: 79.243609
