@@ -8,7 +8,7 @@ def batch_write(table_name,rows):
 
 	with table.batch_writer() as batch:
 		for row in rows:
-			batch.put_item(item=row)
+			batch.put_item(Item=row)
 	return True
 
 def read_csv(csv_file,list):
